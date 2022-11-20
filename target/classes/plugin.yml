@@ -1,0 +1,4 @@
+name: Canceltnt
+version: '1.0-SNAPSHOT'
+main: canceltnt.canceltnt.main
+api-version: 1.19

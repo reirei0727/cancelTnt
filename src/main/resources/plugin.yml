@@ -1,0 +1,4 @@
+name: Canceltnt
+version: '${project.version}'
+main: canceltnt.canceltnt.main
+api-version: 1.19
